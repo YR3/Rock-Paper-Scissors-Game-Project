@@ -1,7 +1,6 @@
 # Yazeed M. Al`Fadani`s Rock, Paper, Scissor Project
 # For Udacity`s Connect Into to Programming course.
 
-(Under Construction)
 
 This project rocks!
 
