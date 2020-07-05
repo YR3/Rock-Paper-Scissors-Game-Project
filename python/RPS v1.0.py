@@ -114,7 +114,7 @@ class Game:  # Game Engine!
             if prompt in ("x", "X"):
                 print("Goodbye then!")
                 exit()
-            elif prompt is "y":
+            elif prompt in ("y", "Y"):
                 pass
             print("Game start!")
             for round in range(3):
